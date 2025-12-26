@@ -1,0 +1,208 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "vijay",
+      "name": "Vijaya",
+      "email": "vijaya123@gmail.com",
+      "phone": "9876543210",
+      "website": "www.vijaya.com",
+      "address": {
+        "street": "MG Road",
+        "suite": "Apt. 101",
+        "city": "Hyderabad",
+        "zipcode": "500001",
+        "company": {
+          "name": "Vijay Films"
+        }
+      }
+    },
+    {
+      "id": "2",
+      "username": "naniactor",
+      "name": "nani",
+      "email": "naturalstarnani234@gmail.com",
+      "phone": "8765432109",
+      "website": "www.nani.com",
+      "address": {
+        "street": "Banjara Hills",
+        "suite": "Apt. 202",
+        "city": "Hyderabad",
+        "zipcode": "500034",
+        "company": {
+          "name": "Nani Productions"
+        }
+      }
+    },
+    {
+      "id": "3",
+      "username": "maheshbabu",
+      "name": "kiran",
+      "email": "kiran345@gmail.com",
+      "phone": "9654321098",
+      "website": "www.kiran.com",
+      "address": {
+        "street": "Jubilee Hills",
+        "suite": "Apt. 303",
+        "city": "Hyderabad",
+        "zipcode": "500033",
+        "company": {
+          "name": "Mahesh Babu Inc"
+        }
+      }
+    },
+    {
+      "id": "4",
+      "username": "ramcharan",
+      "name": "Charan",
+      "email": "charan456@gmail.com",
+      "phone": "9543210987",
+      "website": "www.charan.com",
+      "address": {
+        "street": "Kondapur",
+        "suite": "Apt. 404",
+        "city": "Hyderabad",
+        "zipcode": "500084",
+        "company": {
+          "name": "Ram Charan Studios"
+        }
+      }
+    },
+    {
+      "id": "5",
+      "username": "prabhas",
+      "name": "Raju",
+      "email": "raju567@gmail.com",
+      "phone": "9432109876",
+      "website": "www.raju.com",
+      "address": {
+        "street": "Gachibowli",
+        "suite": "Apt. 505",
+        "city": "Hyderabad",
+        "zipcode": "500032",
+        "company": {
+          "name": "Prabhas Entertainment"
+        }
+      }
+    },
+    {
+      "id": "6",
+      "username": "alluarjun",
+      "name": "Rakesh",
+      "email": "Rakesh678@gmail.com",
+      "phone": "9321098765",
+      "website": "www.Rakesh.com",
+      "address": {
+        "street": "Hitech City",
+        "suite": "Apt. 606",
+        "city": "Hyderabad",
+        "zipcode": "500081",
+        "company": {
+          "name": "Allu Arjun Films"
+        }
+      }
+    },
+    {
+      "id": "7",
+      "username": "Nagarjuna",
+      "name": "sujatha",
+      "email": "sujatha789@gmaiil.com",
+      "phone": "9210987654",
+      "website": "www.sujatha.com",
+      "address": {
+        "street": "Secunderabad",
+        "suite": "Apt. 707",
+        "city": "Hyderabad",
+        "zipcode": "500003",
+        "company": {
+          "name": "Nagarjuna Productions"
+        }
+      }
+    },
+    {
+      "id": "8",
+      "username": "arjun ",
+      "name": "Srilatha",
+      "email": "Srilatha890@gmail.com",
+      "phone": "9109876543",
+      "website": "www.Srilatha.com",
+      "address": {
+        "street": "Ameerpet",
+        "suite": "Apt. 808",
+        "city": "Hyderabad",
+        "zipcode": "500016",
+        "company": {
+          "name": "Arjun Das Studios"
+        }
+      }
+    },
+    {
+      "id": "9",
+      "username": "Prithviraj",
+      "name": "Suchitra",
+      "email": "Suchitra910@gmail.com",
+      "phone": "9098765432",
+      "website": "www.Suchitra.com",
+      "address": {
+        "street": "Tolichowki",
+        "suite": "Apt. 909",
+        "city": "Hyderabad",
+        "zipcode": "500008",
+        "company": {
+          "name": "Prithviraj Films"
+        }
+      }
+    },
+    {
+      "id": "10",
+      "username": "Damon",
+      "name": "Damon Salvatore",
+      "email": "damonsalvatore100@gmail.com",
+      "phone": "9087654321",
+      "website": "www.damonsalvatore.com",
+      "address": {
+        "street": "Begumpet",
+        "suite": "Apt. 1001",
+        "city": "Hyderabad",
+        "zipcode": "500016",
+        "company": {
+          "name": "Damon Entertainment"
+        }
+      }
+    },
+    {
+      "id": "11",
+      "username": "stefan",
+      "name": "Narmada",
+      "email": "Narmada123@gmail.com",
+      "phone": "9076543210",
+      "website": "www.Narmada.com",
+      "address": {
+        "street": "Secunderabad",
+        "suite": "Apt. 1101",
+        "city": "Hyderabad",
+        "zipcode": "500003",
+        "company": {
+          "name": "Stefan Productions"
+        }
+      }
+    },
+    {
+      "id": "12",
+      "username": "klaus",
+      "name": "vijaymalya",
+      "email": "vijaymalya234@gmail.com",
+      "phone": "9065432109",
+      "website": "www.vijaymalya.com",
+      "address": {
+        "street": "Banjara Hills",
+        "suite": "Apt. 1202",
+        "city": "Hyderabad",
+        "zipcode": "500034",
+        "company": {
+          "name": "Klaus Studios"
+        }
+      }
+    }
+  ]
+}
